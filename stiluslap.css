@@ -1,0 +1,105 @@
+﻿body
+{
+    color: antiquewhite;
+    background-color: darkgreen;
+}
+#folap
+{
+   padding:1%;
+
+
+}
+
+#jobboszlop{
+    text-align: right;
+}
+
+#jobboszlop img {
+    max-width: 100%;
+    height: auto;
+}
+
+a:link
+{
+    margin:5px;
+}
+a:visited 
+{
+    color: #7CFC00;
+}
+a:active
+{
+    color: #7CFC00;
+}
+a:hover
+{
+    font-size:large;
+}
+
+#linkek{
+    color: #7CFC00;
+}
+
+.szoveg{
+    color: yellow;
+}
+
+img.img-thumbnail {
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+img.img-thumbnail:after {
+    content: attr(title);
+    display: block;
+    text-align: center;
+    font-size: larger;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+#lablec h3,
+#lablec h4 {
+    text-align: center;
+}
+
+#lablec .col-lg-6 {
+    display: none;
+}
+
+#lablec .col-sm-12 {
+    display: block;
+}
+
+#pontok
+{
+    margin-left:4px;
+    padding:1%;
+}
+
+
+
+#fejlec 
+{ 
+    background-image: url(kepek/fejlec.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#fejlec h1
+{
+   text-align: right;
+}
+
+#abc
+{
+    padding: 1%;
+}
+
+.alairas
+{
+    text-align: center;
+}
